@@ -1,6 +1,7 @@
 # RSNA 2024 Lumbar Spine Degenerative Classification
 
-![LLM](https://github.com/user-attachments/assets/be8f32cc-da26-4866-9d14-caf121cc2192)
+![Lumbar](https://github.com/user-attachments/assets/9c266f7d-6373-4aa0-9fe0-be3ca63ead9a)
+
 
 ## Objective
 The aim is to build a model to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images.
