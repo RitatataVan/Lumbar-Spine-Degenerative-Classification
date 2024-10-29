@@ -3,7 +3,8 @@
 ![LLM](https://github.com/user-attachments/assets/be8f32cc-da26-4866-9d14-caf121cc2192)
 
 ## Objective
-The aim is to answer multiple-choice questions written by an LLM. Each question consists of a prompt (the question), 5 options labeled A, B, C, D, and E, and the correct answer labeled answer (this holds the label of the most correct answer, as defined by the generating LLM).
+The aim is to build a model to aid in the detection and classification of degenerative spine conditions using lumbar spine MR images.
+The challenge focused on the classification of five lumbar spine degenerative conditions: Left Neural Foraminal Narrowing, Right Neural Foraminal Narrowing, Left Subarticular Stenosis, Right Subarticular Stenosis, and Spinal Canal Stenosis. It provided severity scores (Normal/Mild, Moderate, or Severe) for each of the five conditions across the intervertebral disc levels L1/L2, L2/L3, L3/L4, L4/L5, and L5/S1.
 
 ## Data
 Knowledge Corpus：https://www.kaggle.com/datasets/mbanaei/all-paraphs-parsed-expanded <br>
